@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.blog{
+  background-color:cornflowerblue;
+  padding:10px;
+  border: 2px solid tomato;
+  border-radius: 10px;
+}
 
 @keyframes App-logo-spin {
   from {
